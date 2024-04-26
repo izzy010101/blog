@@ -1,0 +1,22 @@
+.err{
+    color: red;
+}
+
+.el_err {
+    border: 2px solid red;
+}
+
+.postimg {
+    width: 300px; 
+    height: 200px;
+}
+
+.getstr_btn {
+    background-color: #d2bc98;
+    color: black;
+}
+
+.getstr_btn:hover {
+    background-color: #caa077;
+}
+
